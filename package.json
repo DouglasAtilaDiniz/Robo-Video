@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DouglasAtilaDiniz/Robo-Video/issues"
   },
-  "homepage": "https://github.com/DouglasAtilaDiniz/Robo-Video#readme"
+  "homepage": "https://github.com/DouglasAtilaDiniz/Robo-Video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
